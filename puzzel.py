@@ -1,3 +1,9 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+#   *Copyrights are in name of :- SARTHAK BHATNAGAR/Python_is_pie   #
+#                                                                   #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+
 # import the necessary packages
 from imutils.perspective import four_point_transform
 from skimage.segmentation import clear_border
