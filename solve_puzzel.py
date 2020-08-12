@@ -1,3 +1,8 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+#   *Copyrights are in name of :- SARTHAK BHATNAGAR/Python_is_pie   #
+#                                                                   #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
 from puzzel import extract_digit
 from puzzel import find_puzzle
 from tensorflow.keras.preprocessing.image import img_to_array
