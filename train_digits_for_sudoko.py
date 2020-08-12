@@ -1,3 +1,8 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+#   *Copyrights are in name of :- SARTHAK BHATNAGAR/Python_is_pie   #
+#                                                                   #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
 from sudoko import SudokoNet
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.datasets import mnist
